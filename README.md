@@ -67,7 +67,7 @@ git clone https://github.com/karan-baghel/karan.baghel_2026B01010576.git
 **2. Navigate to the project folder**
 
 ```bash
-cd karan.baghel_2026B01010576
+cd jeetsingh2026B01010059
 ```
 
 **3. Install the required libraries**
@@ -178,4 +178,4 @@ The following tools and libraries were used in this project:
 
 **Jeet Singh**
 
-GitHub: [Jeet Singh](https://github.com/jeet-abes/jeetsingh2026B01010059)
+GitHub: [Jeet Singh](https://github.com/jeet-abes/jeetsingh2026B01010059.git)
