@@ -61,7 +61,7 @@ Follow these steps to run the project on your system.
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/karan-baghel/karan.baghel_2026B01010576.git
+git clone https://github.com/jeet-abes/jeetsingh2026B01010059.git
 ```
 
 **2. Navigate to the project folder**
